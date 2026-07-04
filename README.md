@@ -437,3 +437,14 @@ src/
 ## 📄 License
 
 Built for **AI Seekho 2026** hackathon. © 2026 RozgarSync Team.
+
+
+## Suggested GitHub Topics
+
+~~~text
+react vite frontend web-app typescript tailwindcss java
+~~~
+
+## License
+
+This project is available under the MIT License. See [LICENSE](LICENSE).
